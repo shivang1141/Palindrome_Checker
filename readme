@@ -1,0 +1,12 @@
+# Palindrome Checker
+
+A simple web application to check if a given word or number is a palindrome.
+
+## Description
+
+A palindrome is a sequence of characters that reads the same forward and backward, disregarding spaces, punctuation, and capitalization. For instance, "madam" and "121" are palindromes as they remain unchanged when reversed. This application allows users to input a word or number, and it will determine if it's a palindrome or not.
+
+## Features
+
+- Checks if the given word or number is a palindrome
+- Displays the result with appropriate color-coding (green for palindromes, red for non-palindromes)
